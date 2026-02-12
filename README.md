@@ -41,7 +41,18 @@ To run this project, ensure your local directory looks like this:
     ├── Song2.mp3
     └── Song3.mp3
 
+🚀 How to Use
+Clone the repository:
 
+Bash
+git clone 
+Add your assets: Place your specific .jpg and .mp3 files in the images and songs folders respectively (matching the filenames in the code).
+
+Launch: Open index.html in any modern web browser.
+
+OR
+
+Open project in VS CODE and choode index.html and open live server.
 
 
 
